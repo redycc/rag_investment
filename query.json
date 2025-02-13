@@ -1,0 +1,93 @@
+[
+    {
+        "question": "群聯 3Q24 主要成長動能來自哪些業務？",
+        "expected_answer": "主要成長來自企業級 SSD、工控模組及車用記憶體應用。",
+        "stock": "群聯"
+    },
+    {
+        "question": "鴻海 2Q24 的 EPS 為多少？與去年同期相比成長了多少？",
+        "expected_answer": "鴻海 2Q24 EPS 為 2.53 元，年增 6%、季增59%。",
+        "stock": "鴻海"
+    },
+    {
+        "question": "智崴 (5263) 2025 年的營收預估是多少？年增率為多少？",
+        "expected_answer": "2025 年預估營收為 25.44 億元，年增 71.77%。",
+        "stock": "智崴"
+    },
+    {
+        "question": "鴻海 2Q24 的 AI 伺服器業務成長如何？",
+        "expected_answer": "2Q24 AI 伺服器營收季增逾 60%，年增 200%，佔伺服器營收比重逾 40%。",
+        "stock": "鴻海"
+    },
+    {
+        "question": "群聯 (8299) 2Q24 的稅後 EPS 為多少？與上一季(1Q24)相比變化如何？",
+        "expected_answer": "2Q24 稅後 EPS 為 11.97 元，較上一季增長 1.3%。",
+        "stock": "群聯"
+
+    },
+    {
+        "question": "智崴 2026 年預計在哪裡設立新廠？投資金額是多少？",
+        "expected_answer": "智崴計畫在高雄橋頭科學園區設廠，投資金額預計達 20 億元。",
+        "stock": "智崴"
+    },
+    {
+        "question": "新 iPhone 16 上市對鴻海造成什麼影響?什麼業務的營收增加了?",
+        "expected_answer": "新 iPhone 16 上市推升 3Q24機構件與光學鏡頭營收、，iPhone 需求上揚將挹注消費性電子營收成長，因公司具生產基地分散化之優勢，",
+        "stock": "鴻海"
+    },
+    {
+        "question": "緯穎近期發行 ECB 籌資的金額是?",
+        "expected_answer": "6億美元。",
+        "stock": "緯穎"
+    },
+    {
+        "question": "群聯的 AI 運算服務 aiDAPTIV+ 主要應用在哪些場景？",
+        "expected_answer": "aiDAPTIV+ 應用於 AI 訓練加速，與 TPU、GPU 配合運作，提供本地 AI 微調能力。",
+        "stock": "群聯"
+    },
+    {
+        "question": "智崴的目標價是多少？",
+        "expected_answer": "目標價為 246 元",
+        "stock": "智崴"
+    },
+    {
+        "question": "東哥2024的投資評等是什麼？",
+        "expected_answer": "評等為『增加持股』。",
+        "stock": "東哥"
+    },
+    {
+        "question": "緯穎 (6669) 2Q24 EPS 為多少？AI 伺服器營收占比是多少？",
+        "expected_answer": "2Q24 EPS 為 26.85 元，AI 伺服器營收占比約 25-30%。",
+        "stock": "緯穎"
+    },
+    {
+        "question": "東哥 2024 年營收預估是多少？",
+        "expected_answer": "預估為 67.1 億元，年增 6.1%",
+        "stock": "東哥"
+    },
+    {
+        "question": "鴻海的電動車業務有什麼進展？",
+        "expected_answer": "Model C 乘用車將於 2024 年量產並交付，並計畫 2025 年在北美銷售。",
+        "stock": "鴻海"
+    },
+    {
+        "question": "智崴未來如何提升內容業務的貢獻？",
+        "expected_answer": "透過持續製作《地球 12 部曲》及推動訂閱制，未來內容營收占比目標達 30%。",
+        "stock": "智崴"
+    },
+    {
+        "question": "緯穎 4Q24 AI 伺服器營收占比目標是多少？",
+        "expected_answer": "目標提升至 50%。",
+        "stock": "緯穎"
+    },
+    {
+        "question": "群聯新推出的企業級 SSD 品牌 PASCARI 2026年目標營收占比為?",
+        "expected_answer": "目標 2026 年營收占比達 40%。",
+        "stock": "群聯"
+    },
+    {
+        "question": "東哥2025 EPS預估為多少?",
+        "expected_answer": "預估EPS 可達 23.58 元",
+        "stock": "東哥"
+    }
+]
